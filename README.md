@@ -76,4 +76,4 @@ Watch the demo: [Click Here](YOUR_VIDEO_LINK_HERE)
 ---
 
 ## 📩 Contact
-For any questions, reach out at: [Your Email/LinkedIn/GitHub].
+For any questions, reach out at: [yeon971105@icloud.com/www.linkedin.com/in/jewon-yeon-ai-scientist/GitHub].
