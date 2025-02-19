@@ -59,7 +59,7 @@ Top Recommendations:
 ---
 
 ## 📹 Demo Video
-Watch the demo: [Click Here](YOUR_VIDEO_LINK_HERE)
+Watch the demo: [Click Here]((https://github.com/yeon971105/lumaa-spring-2025-ai-ml/blob/cdc6309c1a342ce5d33b79eff5f4cff7e6cebd5d/demo.mov))
 
 ---
 
